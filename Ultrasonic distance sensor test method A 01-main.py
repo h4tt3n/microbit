@@ -1,4 +1,8 @@
-# Wiring Micro:Bit - HC-SR04+:
+# Ultrasonic distance measurement with HC-SR04
+# This version only works on Micro:Bit v2
+
+# Wiring 
+# Micro:Bit - HC-SR04+:
 # V0/GND - gnd
 # 3V - vcc
 # Pin0 - trig
