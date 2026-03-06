@@ -17,7 +17,7 @@ echo = pin1
 
 # Setup I/O
 trig.write_digital(0)
-#echo.read_digital()
+echo.read_digital()
 
 while True:
     
