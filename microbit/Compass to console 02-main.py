@@ -8,7 +8,7 @@ import math
 while True:
     # Get raw magnetometer values
     x = compass.get_x()
-    y = compass.get_y()
+    #y = compass.get_y()
     z = compass.get_z()
 
     # Calculate angle in radians using the X/Z plane
